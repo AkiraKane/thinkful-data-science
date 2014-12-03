@@ -1,13 +1,7 @@
-continent, urbanrural, density
-Europe,Rural,46.1812883837
-Europe,Urban,760.903264619
-Oceania,Rural,1.66129220457
-Oceania,Urban,457.5923869
-Africa,Rural,23.8216161918
-Africa,Urban,1435.79000767
-Asia,Rural,59.1678833109
-Asia,Urban,1287.53263365
-North America,Rural,6.70614736783
-North America,Urban,339.134524044
-South America,Rural,8.91414427086
-South America,Urban,783.639220437
+continent, population, land area, density
+Europe,704784295,5472744.0,128.78
+Oceania,37176851,8492248.0,4.38
+Africa,901529814,24320513.0,37.07
+Asia,4066850410,40985150.0,99.23
+North America,505581737,21475620.0,23.54
+South America,380024562,16017906.0,23.72
